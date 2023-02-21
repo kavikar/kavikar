@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik_vakkalagadda
 - 👀 I’m interested in Automation Tools
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Selenium Frameworks
 - 📫 Let's connect <a target="_blank" href="https://www.linkedin.com/in/karthik-vakkalagadda/">
                       <img alt="LinkedIn" align=center width=30px src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" />
