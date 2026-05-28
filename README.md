@@ -6,7 +6,7 @@ Test Infrastructure Engineer · Developer Productivity · Platform Tooling
 6+ years building automation platforms, CI/CD orchestration, and 
 developer tooling at enterprise scale. Architect of PLATE — an 
 internal test infrastructure platform serving engineering teams 
-across myltiple brands
+across multiple brands
 
 **Currently working on:**
 - LLM-powered test generation CLI (OpenAPI spec → structured test cases via Claude API)
