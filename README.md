@@ -1,24 +1,18 @@
 
 ## Karthik Vakkalagadda
 
-Test Infrastructure Engineer · Developer Productivity · Platform Tooling
+Software Engineer in Test · Test Infrastructure · CI/CD · AI-Assisted Engineering
 
-6+ years building automation platforms, CI/CD orchestration, and
-developer tooling at enterprise scale. Architect of a test
-infrastructure platform serving engineering teams across multiple
-brands — CI/CD pipeline orchestration, mobile execution and Jira/Xray
-workflow sync in one place.
+6+ years building test automation frameworks and CI/CD test infrastructure
+for high-volume digital ordering, POS, and payments platforms.
 
-**Portfolio:** [vkarthik.dev](https://www.vkarthik.dev)
+**Currently exploring:**
+- AI-assisted test generation (agent skills, prompt-driven workflows)
+- System design and algorithms for platform engineering roles
 
-**Currently working on:**
-- [play-left](https://github.com/kavikar/play-left) — a registry-driven, multi-brand Playwright E2E framework
-- An agent-based Playwright framework built around skills rather than a fixed script library
-- Deepening system design and algorithms for platform engineering roles
+**Tech:** Java · Python · GitLab CI/CD · Docker · Selenium · Appium ·
+Playwright · REST Assured
 
-**Tech:** Java · Python · TypeScript · GitLab CI/CD · Docker · BrowserStack ·
-Selenium · Appium · Playwright · Maestro · Rest Assured · Snowflake
+AWS Certified Cloud Practitioner
 
-**AWS Certified Cloud Practitioner** | Solutions Architect (in progress)
-
-[LinkedIn](https://www.linkedin.com/in/karthik-vakkalagadda/)
+[LinkedIn](https://www.linkedin.com/in/karthik-vakkalagadda/) · [Portfolio](https://vkarthik.dev)
